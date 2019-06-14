@@ -1,0 +1,8 @@
+coordinates = (1, 2, 3)
+
+x, y, z = coordinates
+
+numbers = [100, 200, 300]
+x, y, z = numbers
+
+print(x, y, z)
